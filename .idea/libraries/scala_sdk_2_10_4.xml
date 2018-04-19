@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="scala-sdk-2.10.4" type="Scala">
+    <properties>
+      <compiler-classpath>
+        <root url="file://E:/依赖包/project_jar/scala_jar/scala-compiler.jar" />
+        <root url="file://E:/依赖包/project_jar/scala_jar/scala-library.jar" />
+        <root url="file://E:/依赖包/project_jar/scala_jar/scala-reflect.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar://E:/依赖包/project_jar/scala_jar/scala-actors-migration.jar!/" />
+      <root url="jar://E:/依赖包/project_jar/scala_jar/scala-actors.jar!/" />
+      <root url="jar://E:/依赖包/project_jar/scala_jar/scala-library.jar!/" />
+      <root url="jar://E:/依赖包/project_jar/scala_jar/scala-reflect.jar!/" />
+      <root url="jar://E:/依赖包/project_jar/scala_jar/scala-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="http://www.scala-lang.org/api/2.10.4/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
